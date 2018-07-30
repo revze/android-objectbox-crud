@@ -14,7 +14,6 @@
     <string name="gender_empty_error">Gender required.</string>
 
     <!-- Main activity -->
-
     <string name="main_title">Friend List</string>
     <string name="main_edit_action">Edit</string>
     <string name="main_delete_action">Delete</string>
