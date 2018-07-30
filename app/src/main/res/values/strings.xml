@@ -1,0 +1,36 @@
+<resources>
+    <!-- Core -->
+    <string name="app_name">My Friend App</string>
+    <string name="name_hint">Name</string>
+    <string name="birth_date_hint">Birth Date</string>
+    <string name="gender_title_option">Gender</string>
+    <string name="male_radio_option">Male</string>
+    <string name="female_radio_option">Female</string>
+    <string name="save_button_action">Save</string>
+
+    <!-- Validation error message -->
+    <string name="name_empty_error">Name required.</string>
+    <string name="birth_date_empty_error">Birth date required.</string>
+    <string name="gender_empty_error">Gender required.</string>
+
+    <!-- Main activity -->
+    <string name="main_title">Friend List</string>
+    <string name="main_edit_action">Edit</string>
+    <string name="main_delete_action">Delete</string>
+    <string name="main_menu_add_action">Add</string>
+    <string name="main_delete_friend_confirmation">
+        Are You sure want to delete this friend?
+    </string>
+
+    <!-- Create activity -->
+    <string name="create_title">Add Friend</string>
+
+    <!-- Edit activity -->
+    <string name="edit_title">Edit Friend</string>
+
+    <!-- Detail activity -->
+    <string name="detail_title">Friend Detail</string>
+    <string name="detail_name_info">Name:&#160;</string>
+    <string name="detail_birth_date_info">Birth Date:&#160;</string>
+    <string name="detail_gender_info">Gender:&#160;</string>
+</resources>
