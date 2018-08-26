@@ -1,2 +1,2 @@
 # android-objectbox-crud
-Android simple CRUD with Objectbox
+Sample Android CRUD with Objectbox
